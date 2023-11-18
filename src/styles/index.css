@@ -1,12 +1,24 @@
+h2 {
+    color: #ff6961;
+}
 
-/* 
+h1 {
+    color: #96305a;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+h5 {
+    color: #ca678e;
+}
 
-*/
+.p {
+    color: #d3d3d3;
+}
+
+.bordec {
+    background-color: #f2e8e144;
+    border-radius:10px
+}
+
+body {
+    background-color: #f2e8e13b;
+}
